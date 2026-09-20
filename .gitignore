@@ -1,0 +1,18 @@
+## .NET / C#
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## Operating System files
+.DS_Store
+Thumbs.db
+
